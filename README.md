@@ -33,9 +33,13 @@ pip install mysql-connector-python numpy pandas pyyaml
 ## 🛠 Project Structure
 
 ├── generate_master_data.py        # Generate student profiles
+
 ├── generate_test_data.py          # Assign sessions and marks
+
 ├── compute_percentile_rank.py     # Compute percentiles & ranks
+
 ├── print_query_module.py          # Marksheet viewer & query interface
+
 ├── names.yaml                     # Sample name bank for random generation
 
 
